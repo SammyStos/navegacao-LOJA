@@ -1,24 +1,35 @@
 import {StyleSheet}from 'react-native'
 
 const estilo = StyleSheet.create({
+ 
+  navbar: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingVertical: 20,
+    paddingHorizontal: 8,
+    backgroundColor: '#6B6FCB',
+    width: '100%',
+    position: 'absolute', 
+    top: 0, 
+    left: 0, 
+    zIndex: 1,
+    
+  },
 
-    titulo: {
-        fontSize: 35,
-        fontWeight: 'bold',
-        marginTop: 20,
-        color: '#FFFFFF',
-      },
-      subtitulo: {
-        fontSize: 20,
-        fontWeight: 'bold',
-        marginTop: 15,
-        color: '#FFFFFF',
-      },
-      tituloCard: {
-        fontSize: 15,
-        fontWeight: 'bold',
-        color: '#FFFFFF',
-      },
+  logo: {
+    width: 65,
+    height: 65,
+    resizeMode: 'contain',
+    marginRight: 10,
+  },
+  logoText: {
+    fontSize: 24,
+    fontWeight: 'bold',
+    color: '#fff',
+    fontFamily: 'Verdana, sans-serif',
+   
+  },
      
 
 
