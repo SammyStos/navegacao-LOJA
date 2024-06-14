@@ -4,7 +4,7 @@ let ALBUNS4 = [
             nome: 'Taylor Swift',
             preco: 'R$ 314,41',
             anoLancamento: '2006',
-            descricao: 'É o álbum de estreia epônimo, apresenta um estilo country pop e letras que exploram relacionamentos amorosos.',
+            descricao: 'É o álbum de estreia epônimo, apresenta um estilo country pop e letras que exploram relacionamentos amorosos anteriores da cantora. ',
             formatosAudio: 'Disco de Vinil- 15 musicas',
             imagem: 'https://studiosol-a.akamaihd.net/tb/letras-blog/wp-content/uploads/2019/07/4f346be-taylor-swift-capa-album-768x782.jpg'
         },
@@ -13,7 +13,7 @@ let ALBUNS4 = [
             nome: 'Fearless',
             preco: 'R$364,26',
             anoLancamento: '2008',
-            descricao: 'É o segundo álbum, Fearless destaca-se como um tributo à juventude, ao amor e à exploração emocional. ',
+            descricao: 'É o segundo álbum, Fearless destaca-se como um tributo à juventude, ao amor e à exploração emocional e alguns acontecimentos da vida da cantora',
             formatosAudio: 'Disco de Vinil- 19 musicas',
             imagem: 'https://akamai.sscdn.co/tb/letras-blog/wp-content/uploads/2019/07/4195ff1-capa-album-fearless-taylor-swift.jpg'
         },
@@ -22,7 +22,7 @@ let ALBUNS4 = [
             nome: 'Speak Now',
             preco: 'R$455,00',
             anoLancamento: '2010',
-            descricao: 'É o terceiro álbum, é uma expressão de autenticidade artística, com Taylor Swift assumindo os papéis de autora, compositora e narradora.',
+            descricao: 'É o terceiro álbum, é uma expressão de autenticidade artística, com Taylor Swift assumindo os papéis de autora, compositora e narradora',
             formatosAudio: 'Disco de Vinil- 20 musicas',
             imagem: 'https://studiosol-a.akamaihd.net/tb/letras-blog/wp-content/uploads/2019/07/c64a585-capa-album-speak-now-taylor-swift-1024x1024.jpg'
         },
@@ -31,7 +31,7 @@ let ALBUNS4 = [
             nome: 'Red',
             preco: 'R$376,26',
             anoLancamento: '2012',
-            descricao: 'É o quarto álbum, o álbum Aborda a complexidade das relações, desde o amor apaixonado até a desilusão. ',
+            descricao: 'É o quarto álbum, o álbum Aborda a complexidade das relações, desde o amor apaixonado até a desilusão e abordando algumas de suas histórias. ',
             formatosAudio: 'Disco de Vinil- 22 musicas',
             imagem: 'https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Taylor_Swift_-_Red.png/220px-Taylor_Swift_-_Red.png'
         },
@@ -40,7 +40,7 @@ let ALBUNS4 = [
             nome: '1989',
             preco: 'R$353,22',
             anoLancamento: '2014',
-            descricao: 'É o quinto álbum, 1989 tem uma estética inspirada nos anos 80 com letras afiadas.',
+            descricao: 'É o quinto álbum, 1989 tem uma estética inspirada nos anos 80 com letras afiadas e aborda histórias de alguns relacionamentos.',
             formatosAudio: 'Disco de Vinil- 16 musicas',
             imagem: 'https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Taylor_Swift_-_1989.png/220px-Taylor_Swift_-_1989.png'
         },
@@ -49,7 +49,7 @@ let ALBUNS4 = [
             nome: 'Reputation',
             preco: 'R$606,63',
             anoLancamento: '2017',
-            descricao: 'É o sexto álbum, Reputation apresenta uma Taylor Swift empoderada, assumindo o controle de sua própria história após controvérsias.',
+            descricao: 'É o sexto álbum, Reputation apresenta uma Taylor empoderada, assumindo o controle de sua própria história após polemicas.',
             formatosAudio: 'Disco de Vinil- 15 musicas',
             imagem: 'https://rollingstone.uol.com.br/media/uploads/reputation_taylor_swift_amazom.jpg'
         },
@@ -58,7 +58,7 @@ let ALBUNS4 = [
             nome: 'Lover',
             preco: 'R$624,34',
             anoLancamento: '2019',
-            descricao: ' é o sétimo álbum, Lover marca um retorno à doçura romântica, capturando a essência do amor em várias formas.',
+            descricao: 'É o sétimo álbum, Lover marca um retorno à doçura romântica, capturando a essência do amor seu antigo relacionamento.',
             formatosAudio: 'Disco de Vinil- 18 musicas',
             imagem: 'https://creativeloafing.com/dl25824?display&x=990&y=990'
         },
@@ -67,7 +67,7 @@ let ALBUNS4 = [
             nome: 'Folklore',
             preco: 'R$465,00',
             anoLancamento: '2020',
-            descricao: 'É o oitavo álbum, Folklore mergulha no indie folk, oferecendo uma exploração poética e melancólica de narrativas fictícias e experiências pessoais.',
+            descricao: 'É o oitavo álbum, oferecendo uma exploração poética melancólica e sentimentalista de narrativas fictícias e experiências pessoais.',
             formatosAudio: 'Disco de Vinil- 16 musicas',
             imagem: 'https://miro.medium.com/max/6000/1*O6soMKjf8PPr9lb6ong_Fw.jpeg'
         },
@@ -76,7 +76,7 @@ let ALBUNS4 = [
             nome: 'Evermore',
             preco: 'R$617,12',
             anoLancamento: '2020',
-            descricao: 'é o nono álbum, mantendo a estética indie folk, “Evermore” aprofundou-se ainda mais na exploração emocional',
+            descricao: 'é o nono álbum, mantendo a estética indie folk, “Evermore” aprofundou-se ainda mais na exploração emocional e abandono ',
             formatosAudio: 'Disco de Vinil- 15 musicas',
             imagem: 'https://umlconnector.com/wp-content/uploads/Evermore.jpeg'
         },

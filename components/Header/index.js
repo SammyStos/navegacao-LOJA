@@ -6,7 +6,7 @@ export default function Header(){
         <>
      <View style={estilo.navbar}>
         <Image
-          source={{ uri: 'https://www.freepnglogos.com/uploads/apple-music-logo-circle-png-28.png' }}
+          source={{ uri: 'https://cdn-icons-png.flaticon.com/512/2106/2106904.png' }}
           style={estilo.logo}
         />
         <Text style={estilo.logoText}>DISCOTEC</Text>

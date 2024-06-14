@@ -4,7 +4,7 @@ let ALBUNS = [
         nome: 'Chase Atlantic',
         preco: 'R$399,99',
         anoLancamento: '2017',
-        descricao: 'O álbum de estreia auto-intitulado, ele aborda temas como relacionamentos, autodescoberta e juventude rebelde.',
+        descricao: 'O álbum de estreia auto-intitulado, ele aborda temas como relacionamentos, autodescoberta e juventude rebelde.     ',
         formatosAudio: 'Disco de Vinil- 14 músicas',
         imagem: 'http://images.genius.com/27d0e8072410cc1f73c25e283505d6cc.1000x1000x1.jpg'
     },
@@ -13,7 +13,7 @@ let ALBUNS = [
         nome: 'Nostalgia',
         preco: 'R$210,00',
         anoLancamento: '2015',
-        descricao: 'Um álbum que mergulha nas memórias e sentimentos nostálgicos, explorando a jornada emocional da banda ao longo dos anos',
+        descricao: 'Um álbum que mergulha nas memórias e sentimentos nostálgicos, explorando a jornada emocional da banda.',
         formatosAudio: 'Disco de Vinil- 5 músicas',
         imagem: 'https://images.genius.com/a3c02ae97bf3051df1d9669ab0bd3dec.1000x1000x1.jpg'
     },
@@ -22,7 +22,7 @@ let ALBUNS = [
         nome: 'Paradise',
         preco: 'R$200,99',
         anoLancamento: '2016',
-        descricao: 'O terceiro álbum da banda, apresentando experiências pessoais e reflexões sobre a vida.',
+        descricao: 'O terceiro álbum da banda Chase A., apresentando experiências pessoais em conjunto e diversas reflexões sobre a vida.',
         formatosAudio: 'Disco de Vinil- 5 músicas',
         imagem: 'https://images.genius.com/87e00d314ce3cca3a6d8e2e26c538845.1000x1000x1.jpg'
     },
@@ -31,7 +31,7 @@ let ALBUNS = [
         nome: 'Phases',
         preco: 'R$250,00',
         anoLancamento: '2019',
-        descricao: 'Uma versão estendida do álbum, explorando relações tóxicas, autoaceitação e a jornada de crescimento pessoal.',
+        descricao: 'Uma versão estendida do álbum da banda, explorando relações tóxicas, autoaceitação e a jornada de crescimento pessoal.',
         formatosAudio: 'Disco de Vinil- 12 músicas',
         imagem: 'http://highlightmagazine.net/wp-content/uploads/2019/06/OFFICIAL-ALBUM-ART-FINAL.jpg'
     },
@@ -49,7 +49,7 @@ let ALBUNS = [
         nome: 'Dalliancé',
         preco: 'R$155,00',
         anoLancamento: '2014',
-        descricao: 'Um álbum que mostra a evolução sonora do Chase Atlantic,  que exploram temas como amor não correspondido, desilusão e perseverança.',
+        descricao: 'Um álbum que mostra a evolução sonora,  que exploram temas como amor não correspondido, desilusão e perseverança.',
         formatosAudio: 'Disco de Vinil- 5 músicas',
         imagem: 'https://images.genius.com/260975eeac8268bcc67b72bb81496bab.1000x1000x1.jpg'
     },
@@ -76,7 +76,7 @@ let ALBUNS = [
         nome: 'Part THREE',
         preco: 'R$100,99',
         anoLancamento: '2017',
-        descricao: 'Um álbum que mergulha nas profundezas das relações humanas, explorando temas como amizade, lealdade e resiliência.',
+        descricao: 'Um álbum que mergulha nas profundezas das relações humanas, explorando temas como amizade, lealdade, fidelidade e resiliência.',
         formatosAudio: 'Disco de Vinil- 4 músicas',
         imagem: 'https://akamai.sscdn.co/uploadfile/letras/albuns/a/b/a/e/641731530024731.jpg'
     }

@@ -8,7 +8,7 @@ const estilo = StyleSheet.create({
     justifyContent: 'center',
     paddingVertical: 20,
     paddingHorizontal: 8,
-    backgroundColor: '#6B6FCB',
+    backgroundColor: '#4169E1',
     width: '100%',
     position: 'absolute', 
     top: 0, 
@@ -18,8 +18,8 @@ const estilo = StyleSheet.create({
   },
 
   logo: {
-    width: 65,
-    height: 65,
+    width: 50,
+    height: 50,
     resizeMode: 'contain',
     marginRight: 10,
   },
@@ -27,7 +27,8 @@ const estilo = StyleSheet.create({
     fontSize: 24,
     fontWeight: 'bold',
     color: '#fff',
-    fontFamily: 'Verdana, sans-serif',
+    fontFamily: 'Lucida Sans Unicode',
+    fontStyle: 'italic',
    
   },
      
