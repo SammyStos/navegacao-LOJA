@@ -8,7 +8,7 @@ export default function App() {
       <Header></Header>
       <Card 
         porcentagem = '45%' 
-        titulo = 'Leitura'
+        titulo = 'LeituraS'
         imagem ='https://img.freepik.com/vetores-gratis/pilha-de-livros-de-design-plano-desenhado-a-mao_23-2149334862.jpg'
         Descricao ='' 
       />  
